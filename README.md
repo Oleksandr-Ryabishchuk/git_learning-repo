@@ -40,3 +40,7 @@ generate ssh key localy":
 push: 
 
 - git push origin main
+
+# Featured Development
+
+1. Praise your friends like in greeting.js
