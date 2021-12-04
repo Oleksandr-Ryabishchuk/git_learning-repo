@@ -43,7 +43,7 @@ push:
 
 ## Branches
 
-check branches: git branch
-create new branch: git checkout -b featured_readme
-switch branches: git checkout main
+- check branches: git branch
+- create new branch: git checkout -b featured_readme
+- switch branches: git checkout main
 
