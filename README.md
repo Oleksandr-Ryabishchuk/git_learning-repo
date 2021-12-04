@@ -40,3 +40,10 @@ generate ssh key localy":
 push: 
 
 - git push origin main
+
+## Branches
+
+check branches: git branch
+create new branch: git checkout -b featured_readme
+switch branches: git checkout main
+
