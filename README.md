@@ -41,3 +41,5 @@ push:
 
 - git push origin main
 
+# Quick branch
+- learn to undo in git 
