@@ -1,3 +1,3 @@
 function greet() {
-    console.log("Yeeeee goes president!")
+    console.log("Yeeeee goes crazy!")
 }
